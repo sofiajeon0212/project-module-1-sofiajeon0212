@@ -6,7 +6,7 @@ function setup() {
 }
 
 function draw() {
-  background(20); 
+  background(200); 
   rocket.display();
   rocket.move();
 }
