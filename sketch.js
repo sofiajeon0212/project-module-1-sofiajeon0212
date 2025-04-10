@@ -57,7 +57,7 @@ class Rocket {
 
     fill(255, 50, 0);
     ellipse(this.x + 30, this.y + 260, 20, 40);
-
+// hiSSS
     fill(255, 255, 0, 80);
     ellipse(this.x + 30, this.y + 280, 60, 20);
   }
