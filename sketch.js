@@ -26,7 +26,7 @@ let rockSpawnRate = 120;
 const LEVELS = [
   { target: 10, speed: 2, spawn: 40, size: 80, rockCount: 1 },  // Level 1
   { target: 40, speed: 7, spawn: 30, size: 90, rockCount: 2 },   // Level 2 (harder)
-  { target: 80, speed: 9, spawn: 20, size: 95, rockCount: 3 }  // Level 3 (even harder)
+  { target: 60, speed: 9, spawn: 20, size: 95, rockCount: 3 }  // Level 3 (even harder)
 ];
 
 /* 
