@@ -12,7 +12,7 @@ let rocket = {
   width: 40,
   height: 80
 };
-
+// Hi
 // Game progress tracking variables
 let score = 0;
 let level = 0;
